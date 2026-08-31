@@ -15,6 +15,21 @@ Telegram-бот для отслеживания курсов валют и Би�
 
 ---
 
+## 📸 Примеры работы
+
+| Действие | Скриншот |
+|----------|----------|
+| 👋 Приветственное сообщение | <img src="photo_2026-08-31_12-59-19.jpg" width="200"> |
+| 🏠 Главное меню | <img src="photo_2026-08-31_12-59-12.jpg" width="200"> |
+| 💱 Меню выбора валюты | <img src="photo_2026-08-31_12-59-16.jpg" width="200"> |
+| 🇨🇳 Курс китайского юаня (CNY) | <img src="photo_2026-08-31_12-59-01.jpg" width="200"> |
+| ₿ Курс Биткоина (BTC) | <img src="photo_2026-08-31_12-59-10.jpg" width="200"> |
+| ❓ Раздел помощи | <img src="photo_2026-08-31_12-59-03.jpg" width="200"> |
+| 📈 Меню выбора валюты для графика | <img src="photo_2026-08-31_12-58-59.jpg" width="200"> |
+| 📊 График курса USD за неделю | <img src="photo_2026-08-31_12-58-55.jpg" width="200"> |
+
+---
+
 ## 🛠 Технологии
 
 - **Python 3.14**  
@@ -38,6 +53,7 @@ py currency_bot.py
 
 ## 👤 Автор
 
-**Ваше Имя**  
-Telegram: [@imtheoperator](https://t.me/imtheoperator)  
-GitHub: [Daniil-Korolev-data](https://github.com/Daniil-Korolev-data)
+**Данил Королёв**  
+
+- Telegram: [@imtheoperator](https://t.me/imtheoperator)  
+- GitHub: [Danil-Korolev-data](https://github.com/Danil-Korolev-data)
